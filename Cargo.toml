@@ -1,0 +1,6 @@
+[package]
+name = "graphics"
+version = "0.1.0"
+authors = ["Erik F. Carstensen <fundererik@gmail.com>"]
+
+[dependencies]
